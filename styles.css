@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204);
+}
+.heading{
+    text-align: center;
+}
+.heading2{
+    text-align: center;
+}
+#container{
+    border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+}
+.monis{
+	text-decoration: none;
+	background-color: white;
+}
+a {
+	background-color: white;
+	text-decoration-line: none;
+}
+li{
+	list-style-type: none;
+	background-color: white;
+}
+#container2{
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+.heading3{
+    text-align: center;
+	background-color: white;
+}
+.player_one{
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+	object-fit: cover;
+	width: 100%;
+	height: 100%
+	
+}
+.player_two{
+	width: 100%;
+	background-color: white;
+}
